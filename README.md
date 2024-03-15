@@ -1,2 +1,3 @@
 # stonepaperscissor
-The famous game&lt;br>
+The famous game :<br>
+Stone, Paper, Scissor
